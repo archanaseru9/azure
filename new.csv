@@ -1,0 +1,8 @@
+ProductID,ProductName,Category,QuantityInStock,Price
+P001,Product A,Electron,10,99.9
+P002,Product B,Home,20,199.9
+P003,Product C,off,30,299.9
+P004,Product D,book,40,399.9
+P005,Product E,furni,50,499.9
+P006,Product F,toy,60,599.9
+P007,Product G,shop,70,699.9
